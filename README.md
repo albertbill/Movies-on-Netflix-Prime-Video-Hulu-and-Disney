@@ -1,5 +1,3 @@
-![alt text](img/tokopedia2.png)
-
 # Basic visualization and analysis movies on Netflix, Prime Video, Hulu, and Disney.
 It contains data visualization and data analysis movies on Netflix, Prime Video, Hulu, and Disney.
 
