@@ -1,5 +1,5 @@
-# Basic visualization and analysis movies on Netflix, Prime Video, Hulu, and Disney.
-It contains data visualization and data analysis movies on Netflix, Prime Video, Hulu, and Disney.
+# Basic visualization and analysis movies on Netflix, Prime Video, Hulu, and Disney+.
+It contains data visualization and data analysis movies on Netflix, Prime Video, Hulu, and Disney+.
 
 ## Documentation
 - Data Analysis: [.ipynb file]()
